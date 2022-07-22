@@ -1,7 +1,7 @@
 127.0.0.1 localhost
 ::1 localhost
 
-#pkg=white.ad.web.com;【提示误伤】选择性不✔以下子项
+#pkg=white.ad.web.com;
 #---------------------------------------------
 127.0.0.1 livew.l.qq.com #-> 腾讯视频
 127.0.0.1 t7z.cupid.iqiyi.com #-> 爱奇艺
@@ -247,9 +247,6 @@
 127.0.0.1 v.aty.sohu.com
 127.0.0.1 vg.aty.sohu.com
 127.0.0.1 vm.aty.sohu.com
-127.0.0.1 da.mmarket.com
-127.0.0.1 click.hd.sohu.com.cn
-127.0.0.1 click2.hd.sohu.com
 127.0.0.1 count.vrs.sohu.com
 127.0.0.1 ctr.hd.sohu.com
 127.0.0.1 pb.hd.sohu.com.cn
@@ -260,6 +257,39 @@
 127.0.0.1 download.wan.sohu.com
 127.0.0.1 g.jssdk.net
 127.0.0.1 changyan.sohu.com
+127.0.0.1  frontend.hd.sohu.com
+127.0.0.1  log.hd.sohu.com
+127.0.0.1  spt2.hd.sohu.com
+127.0.0.1  pv.sohu.com
+127.0.0.1  tv.sohu.com
+127.0.0.1  api.tv.sohu.com
+127.0.0.1  api.danmu.tv.sohu.com
+127.0.0.1  fans.tv.sohu.com
+127.0.0.1  kis.tv.sohu.com
+127.0.0.1  metadata-vrs.tv.sohu.com
+127.0.0.1  photocdn.tv.sohu.com
+127.0.0.1  photovms.tv.sohu.com
+127.0.0.1  p2p.tracker.tv.sohu.com
+127.0.0.1  p2p.vod.tv.sohu.com
+127.0.0.1  search.vrs.tv.sohu.com
+127.0.0.1  count.vrs.sohu.com
+127.0.0.1  hot.vrs.sohu.com
+127.0.0.1  56.com
+127.0.0.1  sp.qf.56.com
+127.0.0.1  irs01.com
+127.0.0.1  h11-7329441.z1.irs01.com
+127.0.0.1  itc.cn
+127.0.0.1  css.tv.itc.cn
+127.0.0.1  js.tv.itc.cn
+127.0.0.1  hotvrs.js.tv.itc.cn
+127.0.0.1  data.vod.itc.cn
+127.0.0.1  mediav.com
+127.0.0.1  pages-juxiao.mediav.com
+127.0.0.1  sohucs.com
+127.0.0.1  00cdc5c2e0ddc.cdn.sohucs.com
+127.0.0.1  39d0825d09f05.cdn.sohucs.com
+127.0.0.1  e3f49eaa46b57.cdn.sohucs.com
+127.0.0.1  e8fefd0dff0dd.cdn.sohucs.com
 #--乐视视频-Letv
 127.0.0.1 n.mark.letv.com
 127.0.0.1 static.app.m.letv.com
@@ -338,7 +368,6 @@
 127.0.0.1 pcapp-data-collect.youku.com
 127.0.0.1 pis-pcdn.youku.com
 127.0.0.1 sealine.youku.com
-127.0.0.1 v.youku.com
 127.0.0.1 9xsecndns.cn
 127.0.0.1 image.9xsecndns.cn
 127.0.0.1 aliapp.org
@@ -363,7 +392,6 @@
 127.0.0.1 log.mmstat.com
 127.0.0.1 ws.mmstat.com
 127.0.0.1 yt.mmstat.com
-127.0.0.1 taobao.com
 127.0.0.1 fourier.taobao.com
 127.0.0.1 ykimg.com
 127.0.0.1 m.ykimg.com
@@ -391,7 +419,7 @@
 127.0.0.1 adashx.ut.youku.com
 127.0.0.1 adx-open-service.youku.com
 127.0.0.1 h-adashx.ut.youku.com
-#--咪咕|土豆|人人|凤凰|等等……
+#--咪咕|土豆|人人|凤凰等等……
 127.0.0.1 ggx.cmvideo.cn
 127.0.0.1 adxserver.ad.cmvideo.cn
 127.0.0.1 openstorage.ad.cmvideo.cn
