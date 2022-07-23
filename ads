@@ -921,6 +921,26 @@
 127.0.0.1 tsis.jpush.cn
 127.0.0.1 bjuser.jpush.cn
 127.0.0.1 s.jpush.cn
+#--Youtube--
+127.0.0.1 suggestqueries-clients6.youtube.com
+127.0.0.1 www.youtube.com
+127.0.0.1 doubleclick.net
+127.0.0.1 googleads.g.doubleclick.net
+127.0.0.1 static.doubleclick.net
+127.0.0.1 fonts.googleapis.com
+127.0.0.1 ggpht.com
+127.0.0.1 yt3.ggpht.com
+127.0.0.1 google.com
+127.0.0.1 www.google.com
+127.0.0.1 googlevideo.com
+127.0.0.1 rr2---sn-npoe7n7s.googlevideo.com
+127.0.0.1 rr2---sn-npoldn7d.googlevideo.com
+127.0.0.1 gstatic.com
+127.0.0.1 fonts.gstatic.com
+127.0.0.1 www.gstatic.com
+127.0.0.1 jnn-pa.googleapis.com
+127.0.0.1 ytimg.com
+127.0.0.1 i.ytimg.com
 
 #pkg=googleanalysis.mobi;谷歌广告服务
 127.0.0.1 ads.google.com
