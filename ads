@@ -419,6 +419,10 @@
 127.0.0.1 adashx.ut.youku.com
 127.0.0.1 adx-open-service.youku.com
 127.0.0.1 h-adashx.ut.youku.com
+127.0.0.1 static.youku.com
+127.0.0.1 v.youku.com
+127.0.0.1 img.alicdn.com
+127.0.0.1 liangcang-material.alicdn.com
 #--咪咕|土豆|人人|凤凰等等……
 127.0.0.1 ggx.cmvideo.cn
 127.0.0.1 adxserver.ad.cmvideo.cn
