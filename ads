@@ -422,6 +422,16 @@
 127.0.0.1 static.youku.com
 127.0.0.1 v.youku.com
 127.0.0.1 img.alicdn.com
+127.0.0.1 valipl-p1.cp31.ott.cibntv.net
+127.0.0.1 valipl-g1.cp31.ott.cibntv.net
+127.0.0.1 image.planet.youku.com
+127.0.0.1 ems.youku.com
+127.0.0.1 msg.qy.net
+127.0.0.1 pss.alicdn.com
+127.0.0.1 et.tanx.com
+127.0.0.1 df.tanx.com
+127.0.0.1 pgw-mob-cld-sl.alicdn.com
+127.0.0.1 ipv6-amdc.base.youku.com
 127.0.0.1 liangcang-material.alicdn.com
 #--咪咕|土豆|人人|凤凰等等……
 127.0.0.1 ggx.cmvideo.cn
